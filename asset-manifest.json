@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/app_land/static/css/main.251abf7f.css",
+    "main.js": "/app_land/static/js/main.de8ab68f.js",
+    "static/media/presentation.png": "/app_land/static/media/presentation.2d949a93e3bcab6b6622.png",
+    "static/media/tiger.png": "/app_land/static/media/tiger.ca1557331271a17b63c6.png",
+    "static/media/about.png": "/app_land/static/media/about.0290bb5a48c48e1b374a.png",
+    "static/media/background.png": "/app_land/static/media/background.980493c75a48f2e7e650.png",
+    "static/media/download.png": "/app_land/static/media/download.52e6d6c5be1ea7a93af6.png",
+    "static/media/feature_2.png": "/app_land/static/media/feature_2.2b466162eafef9cf2b5f.png",
+    "static/media/feature_1.png": "/app_land/static/media/feature_1.801589a0dc8faa4fad28.png",
+    "static/media/feature_3.png": "/app_land/static/media/feature_3.0fadb17c93d531691fd5.png",
+    "index.html": "/app_land/index.html",
+    "main.251abf7f.css.map": "/app_land/static/css/main.251abf7f.css.map",
+    "main.de8ab68f.js.map": "/app_land/static/js/main.de8ab68f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.251abf7f.css",
+    "static/js/main.de8ab68f.js"
+  ]
+}
