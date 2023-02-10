@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/app_land/static/css/main.e5734e95.css",
+    "main.css": "/app_land/static/css/main.870d4ac3.css",
     "main.js": "/app_land/static/js/main.63e6f2bd.js",
     "static/media/presentation.png": "/app_land/static/media/presentation.2d949a93e3bcab6b6622.png",
     "static/media/tiger.png": "/app_land/static/media/tiger.ca1557331271a17b63c6.png",
@@ -12,11 +12,11 @@
     "static/media/feature_1.png": "/app_land/static/media/feature_1.801589a0dc8faa4fad28.png",
     "static/media/feature_3.png": "/app_land/static/media/feature_3.0fadb17c93d531691fd5.png",
     "index.html": "/app_land/index.html",
-    "main.e5734e95.css.map": "/app_land/static/css/main.e5734e95.css.map",
+    "main.870d4ac3.css.map": "/app_land/static/css/main.870d4ac3.css.map",
     "main.63e6f2bd.js.map": "/app_land/static/js/main.63e6f2bd.js.map"
   },
   "entrypoints": [
-    "static/css/main.e5734e95.css",
+    "static/css/main.870d4ac3.css",
     "static/js/main.63e6f2bd.js"
   ]
 }
